@@ -1,10 +1,14 @@
 # Confessionalization of the Medieval Middle East:
 ## Occurences of "confession" (broad, metonymical sense as a synonym of "religion" or denominations) in orientalist journals, 1840–2019
 
-The following include three tables, each dedicated to one of the orientalist journals 
+This file offers three tables, each dedicated to one of the orientalist journals 
+  1. *Zeitschrift der Deutschen Morgenländischen Gesellschaft*
+  2. *Der Islam*
+  3. *Journal of the Royal Asiatic Society*
+     
 with all references articles from the journals DI, ZDMG, and RAS with occurrences of "confession" in the broad sense, as summarized in Figure 1 in the article
 
-| Zeitschrift der Deutschen Morgenländischen Gesellschaft |                  |                       |                                                                                                                                                                                                                                                                                                                                                               |
+| *Zeitschrift der Deutschen Morgenländischen Gesellschaft* |                  |                       |                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------- | ---------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Year                                                    | Occurences/Year | Occurences/Article | Publication                                                                                                                                                                                                                                                                                                                                                   |
 | 1847                                                    | 0                |                       |                                                                                                                                                                                                                                                                                                                                                               |
