@@ -1,5 +1,7 @@
-# Confessionalization-of-the-Medieval-Middle-East
-The table offers all references articles from the journals DI, ZDMG, and RAS with occurrences of "confession" in the broad sense, as summarized in Figure 1 in the article
+# Confessionalization of the Medieval Middle East: Occurences of "confession" (broad, metonymical sense as a synonym of "religion" or a religious group) in orientalist journals, 1840–2019
+
+The following include three tables, each dedicated to one of the orientalist journals 
+with all references articles from the journals DI, ZDMG, and RAS with occurrences of "confession" in the broad sense, as summarized in Figure 1 in the article
 
 | Zeitschrift der Deutschen Morgenländischen Gesellschaft |                  |                       |                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------- | ---------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
