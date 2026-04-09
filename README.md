@@ -1,4 +1,4 @@
-# Confessionalization of the Medieval Middle East:
+# The Confessionalization of the Medieval Middle East: Figure 1
 ## Occurences of "confession" (broad, metonymical sense as a synonym of "religion" or denominations) in orientalist journals, 1840–2019
 
 This file offers three tables, each dedicated to one of the orientalist journals 
