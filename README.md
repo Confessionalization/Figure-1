@@ -2,15 +2,16 @@
 ## Occurences of "confession" (broad, metonymical sense as a synonym of "religion" or denominations) in orientalist journals, 1840–2019
 
 This file offers three tables, each dedicated to one of the orientalist journals covered in Figure 1:
-  1. *Zeitschrift der Deutschen Morgenländischen Gesellschaft*
-  2. *Der Islam*
-  3. *Journal of the Royal Asiatic Society*
-     
-with all references articles from the journals DI, ZDMG, and RAS with occurrences of "confession" in the broad sense, as summarized in Figure 1 in the article
 
-| *Zeitschrift der Deutschen Morgenländischen Gesellschaft* |                  |                       |                                                                                                                                                                                                                                                                                                                                                               |
+1. *Zeitschrift der Deutschen Morgenländischen Gesellschaft*
+2. *Der Islam*
+3. *Journal of the Royal Asiatic Society*
+     
+Each table 
+
+| **Zeitschrift der Deutschen Morgenländischen Gesellschaft** |                  |                       |                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------- | ---------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Year**                                                    | **Occurences/Year** | **Occurences/Article** | **Article**                                                                                                                                                                                                                                                                                                                                                   |
+| `Year`                                                    | `Occurences/Year` | `Occurences/Article` | `Article`                                                                                                                                                                                                                                                                                                                                                   |
 | 1847                                                    | 0                |                       |                                                                                                                                                                                                                                                                                                                                                               |
 | 1848                                                    | 1                | 1                     | 🔴 Jellinek, Ad. (1848). [Review of Sefer Tebuôt ha-Arez, by J. Schwarz]. Zeitschrift Der Deutschen Morgenländischen Gesellschaft, vol. 2, no. 2, p. 256                                                                                                                                                                                                                                                                                                    |
 |                                                         |                  | 1                     | Haneberg. “Die Verehrung Der XII Imàme Bei Den Schiiten.” Zeitschrift Der Deutschen Morgenländischen Gesellschaft, vol. 2, no. 1, 1848, p. 74                                                                                                                                                                                                                 |
