@@ -4,12 +4,12 @@
 This file offers three tables, each dedicated to one of the orientalist journals covered in Figure 1:
 
 1. *Zeitschrift der Deutschen Morgenländischen Gesellschaft*
-2. *Der Islam*
+2. *Der Islam: Journal of the History and Culture of the Middle East*
 3. *Journal of the Royal Asiatic Society*
      
 Each table 
 
-| ** 1. Zeitschrift der Deutschen Morgenländischen Gesellschaft**   |||                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **1. Zeitschrift der Deutschen Morgenländischen Gesellschaft**   ||||
 | ------------------------------------------------------- | ---------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Year`                                                    | `Occurences/Year` | `Occurences/Article` | `Article`                                                                                                                                                                                                                                                                                                                                                   |
 | 1847                                                    | 0                |                       |                                                                                                                                                                                                                                                                                                                                                               |
