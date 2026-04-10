@@ -1,5 +1,5 @@
 # The Confessionalization of the Medieval Middle East: Figure 1
-## Occurences of "confession" (broad, metonymical sense as a synonym of "religion" or denominations) in orientalist journals, 1840–2019
+## Occurences of "confession" in orientalist journals, 1840–2019
 
 This file offers three tables, each dedicated to one of the orientalist journals covered in Figure 1:
 
@@ -9,15 +9,15 @@ This file offers three tables, each dedicated to one of the orientalist journals
      
 Each table charts all references to articles in which the term "confession" in the broad, metonymical sense can be found in the context of the medieval Middle East. 
 
-When I detected an occurence of "confession" in the broad, metonymical sense that is used in a *different* context from the medieval Middle East, I did not add that occurence to the total count of occurences, but nevertheless kept a record of it in the table using the following marks:
+When I detected an occurence of "confession" in the broad, metonymical sense that is used in a *different* context from the medieval Middle East, I did not add that occurence to the total count of occurences for a given year, but nevertheless kept a record of it in the table using the following marks:
 
-🔴 An article citation preceded by a red dot represents an occurence of "confession" in a *modern* Middle Eastern context (e.g., the political-religious divide of the modern nation state of Lebanon). Such an occurence is not counted in the total occurences of "confession" for a given year.
+🔴 An article citation preceded by a red dot represents an occurence of "confession" in a *modern* Middle Eastern context (e.g., the political-religious divide of the modern nation state of Lebanon).
 
-🟡 An article citation preceded by a yellow dot represents an occurence of "confession in a *non-Middle Eastern* context (e.g., the early Modern European divide between Protestants and Catholics). Such an occurence is not counted in the total occurences of "confession" for a given year.
+🟡 An article citation preceded by a yellow dot represents an occurence of "confession in a *non-Middle Eastern* context (e.g., the early Modern European divide between Protestants and Catholics). 
 
-All occurences of "confession" in a more narrow, literal senses (e.g., as theological formulas functioning as 'confession of faith') were not counted here at all.
+All occurences of "confession" in narrow, literal senses (e.g., as theological formulas functioning as 'confessions of faith') were not counted  at all.
 
-
+---
 
 | **1. Zeitschrift der Deutschen Morgenländischen Gesellschaft**   ||||
 | ------------------------------------------------------- | ---------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
