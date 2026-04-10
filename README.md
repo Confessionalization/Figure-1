@@ -13,7 +13,7 @@ When I detected an occurence of "confession" in the broad, metonymical sense tha
 
 🔴 An article citation preceded by a red dot represents an occurence of "confession" in a *modern* Middle Eastern context (e.g., the political-religious divide of the modern nation state of Lebanon).
 
-🟡 An article citation preceded by a yellow dot represents an occurence of "confession in a *non-Middle Eastern* context (e.g., the early Modern European divide between Protestants and Catholics). 
+🟡 An article citation preceded by a yellow dot represents an occurence of "confession" in a *non-Middle Eastern* context (e.g., the early Modern European divide between Protestants and Catholics). 
 
 All occurences of "confession" in narrow, literal senses (e.g., as theological formulas functioning as 'confessions of faith') were not counted  at all.
 
