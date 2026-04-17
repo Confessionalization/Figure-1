@@ -9,11 +9,13 @@ This file offers three tables, each dedicated to one of the orientalist journals
      
 Each table charts all references to articles in which the term "confession" in the broad, metonymical sense can be found in the context of the medieval Middle East. 
 
-When I detected an occurence of "confession" in the broad, metonymical sense that is used in a *different* context from the medieval Middle East, I did not add that occurence to the total count of occurences for a given year, but nevertheless kept a record of it in the table using the following marks:
+When I detected an occurence of "confession" in the broad, metonymical sense that is used in a *different* context from the medieval Middle East, I did not add that occurence to the total count of occurences for a given year, but nevertheless kept a record of it in the table while marking it in the following manner:
 
-🔴 An article citation preceded by a red dot represents an occurence of "confession" in a *modern* Middle Eastern context (e.g., in reference to the political divide of the modern nation state of Lebanon according to religions and denominations).
+🔴 An article citation preceded by a red dot represents an occurence of "confession" in a *modern* Middle Eastern context (e.g., in reference to the political divide of the modern nation state of Lebanon according to religions and denominations). Such an occurence is not recorded in the total count for a given year.
 
-🟡 An article citation preceded by a yellow dot represents an occurence of "confession" in a *non-Middle Eastern* context (e.g., in reference to the early Modern European divide between Protestants and Catholics). 
+🟡 An article citation preceded by a yellow dot represents an occurence of "confession" in a *non-Middle Eastern* context (e.g., in reference to the early Modern European divide between Protestants and Catholics). Such an occurence is not recorded in the total count for a given year.
+
+Another case should be mentioned of occurences of "confession" in the context of the medieval Middle East but in articles whose subject matter extends beyond the medieval Middle East. Such occurences are recorded in the total count for a given year and are not marked with a special signifier (e.g., Fritz Meier and Richard Gramlich, “Drei moderne Texte zum persischen „Wettreden“,” Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. 114, no. 2, 1964, pp. 292, 295, and 320)
 
 All occurences of "confession" in narrow, literal senses (e.g., as theological formulas functioning as 'confessions of faith') were not counted at all.
 
