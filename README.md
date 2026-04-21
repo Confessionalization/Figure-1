@@ -12,10 +12,10 @@ Each table charts all references to articles in which the term "confession" in t
 When I detected an occurence of "confession" in the broad, metonymical sense that is used in a *different* context from the medieval Middle East, I did not add that occurence to the total count of occurences for a given year. I nevertheless kept a record of the occurence in the table while marking it in the following manner:
 
 🔴 An article citation preceded by a red dot represents an occurence of "confession" in a *modern* Middle Eastern context (e.g., in reference to Lebanon's political division according to religions and denominations). Such an occurence is not recorded in the total count for a given year.
+     (On the other hand, occurences in the context of the medieval Middle East but in articles whose subject matter is modern are recorded in the total count for a given year and are not marked with a special signifier: e.g., Fritz Meier and Richard Gramlich, “Drei moderne Texte zum persischen „Wettreden“,” Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. 114, no. 2, 1964, pp. 292, 295, and 320)
 
 🟡 An article citation preceded by a yellow dot represents an occurence of "confession" in a *non-Middle Eastern* context (e.g., in reference to the early Modern European divide between Protestants and Catholics). Such an occurence is not recorded in the total count for a given year.
-
-/// Two additional cases should be mentioned of occurences of "confession" in the broads sense: one, an occurence in the context of the medieval Middle East but in articles whose subject matter extends beyond the medieval Middle East. Such occurences are recorded in the total count for a given year and are not marked with a special signifier (e.g., Fritz Meier and Richard Gramlich, “Drei moderne Texte zum persischen „Wettreden“,” Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. 114, no. 2, 1964, pp. 292, 295, and 320)
+     (On the other hand, occruences in a non-Middle Eastern context in articles whose subject matter is medieval are not recored in the total count for a given year and are marked with a special signifiered: e.g., Holger Winkelmann-Liebert, "Die miḥna im Kalifat des al-Mu‛taṣim," Der Islam, vol. 80, no. 2, 2003, p. 224)
 
 All occurences of "confession" in narrow, literal senses (e.g., as theological formulas functioning as 'confessions of faith') were not counted at all.
 
