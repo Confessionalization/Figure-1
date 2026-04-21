@@ -15,7 +15,7 @@ When I detected an occurence of "confession" in the broad, metonymical sense tha
 
 🟡 An article citation preceded by a yellow dot represents an occurence of "confession" in a *non-Middle Eastern* context (e.g., in reference to the early Modern European divide between Protestants and Catholics). Such an occurence is not recorded in the total count for a given year.
 
-Another case should be mentioned of occurences of "confession" in the context of the medieval Middle East but in articles whose subject matter extends beyond the medieval Middle East. Such occurences are recorded in the total count for a given year and are not marked with a special signifier (e.g., Fritz Meier and Richard Gramlich, “Drei moderne Texte zum persischen „Wettreden“,” Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. 114, no. 2, 1964, pp. 292, 295, and 320)
+/// Two additional cases should be mentioned of occurences of "confession" in the broads sense: one, an occurence in the context of the medieval Middle East but in articles whose subject matter extends beyond the medieval Middle East. Such occurences are recorded in the total count for a given year and are not marked with a special signifier (e.g., Fritz Meier and Richard Gramlich, “Drei moderne Texte zum persischen „Wettreden“,” Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. 114, no. 2, 1964, pp. 292, 295, and 320)
 
 All occurences of "confession" in narrow, literal senses (e.g., as theological formulas functioning as 'confessions of faith') were not counted at all.
 
