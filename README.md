@@ -1,5 +1,4 @@
-# The Confessionalization of the Medieval Middle East: Figure 1
-## Occurences of "Confession" in Orientalist Journals, 1840–2019
+# Figure 1: The Confessionalization of the Medieval Middle East in Orientalist Journals, 1840-2019
 
 This file offers three tables, each dedicated to one of the orientalist journals covered in Figure 1:
 
