@@ -6,9 +6,9 @@ This file offers three tables, each dedicated to one of the orientalist journals
 2. *Der Islam: Journal of the History and Culture of the Middle East*
 3. *Journal of the Royal Asiatic Society*
      
-Each table charts all references to articles in which the term "confession" in the broad, metonymical sense can be found in the context of the medieval Middle East. 
+Each table charts all references to articles in which the term "confession" in the broad sense can be found in the context of the medieval Middle East. 
 
-When I detected an occurence of "confession" in the broad, metonymical sense that is used in a *different* context from the medieval Middle East, I did not add that occurence to the total count of occurences for a given year. I nevertheless kept a record of the occurence in the table while marking it in the following manner:
+When I detected an occurence of "confession" in the broad sense that is used in a *different* context from the medieval Middle East, I did not add that occurence to the total count of occurences for a given year. I nevertheless kept a record of the occurence in the table while marking it in the following manner:
 
 🔴 An article citation preceded by a red dot represents an occurence of "confession" in a *modern* Middle Eastern context (e.g., in reference to Lebanon's political division according to religions and denominations). Such an occurence is not recorded in the total count for a given year.*
 
