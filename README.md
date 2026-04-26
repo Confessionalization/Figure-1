@@ -16,9 +16,9 @@ When I detected an occurence of "confession" in the broad sense that is used in 
 
 All occurences of "confession" in narrow, literal senses (e.g., as theological formulas functioning as 'confessions of faith') were not counted at all.
 
-<sub> *Occurences in the context of the medieval Middle East but in articles whose subject matter is modern are recorded in the total count for a given year and are not marked with a special signifier: e.g., Fritz Meier and Richard Gramlich, “Drei moderne Texte zum persischen „Wettreden“,” Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. 114, no. 2, 1964, pp. 292, 295, and 320. </sub>
+<sub> *Occurences in the context of the medieval Middle East but in articles whose subject matter is modern are recorded in the total count for a given year and are not marked with a special signifier. (E.g., Fritz Meier and Richard Gramlich, “Drei moderne Texte zum persischen „Wettreden“,” Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. 114, no. 2, 1964, pp. 292, 295, and 320). </sub>
 
-<sub> **Occruences in a non-Middle Eastern context but in articles whose subject matter is medieval are not recored in the total count for a given year and are marked with a yellow dot: e.g., Holger Winkelmann-Liebert, "Die miḥna im Kalifat des al-Mu‛taṣim," Der Islam, vol. 80, no. 2, 2003, p. 224. </sub>
+<sub> **Occruences in a non-Middle Eastern context but in articles whose subject matter is medieval are not recored in the total count for a given year and are marked with a yellow dot. (E.g., Holger Winkelmann-Liebert, "Die miḥna im Kalifat des al-Mu‛taṣim," Der Islam, vol. 80, no. 2, 2003, p. 224). </sub>
 
 ---
 **1. Zeitschrift der Deutschen Morgenländischen Gesellschaft** 
